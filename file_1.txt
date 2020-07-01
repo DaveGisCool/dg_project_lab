@@ -2,3 +2,7 @@ Newly added first line
 This is the first line
 This is the second line
 Maybe this is the third line?
+
+Adam's first line of text
+Adam's second line of text
+Adam's thir line of text
